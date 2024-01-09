@@ -9,6 +9,7 @@ Let we open the GoToolBox and take our first tool
 --It IS  A TOOL PACK,WOW,A TOOL PACK WHICH IS A COLLECTION OF TOOLS ONE SUCH A TOOLPack IS
 
 #StorageToolPack
+
 It consits of the tools for storing data(information) in the machine
 
 
