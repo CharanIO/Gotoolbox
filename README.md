@@ -10,6 +10,6 @@ Let we open the GoToolBox and take our first tool
 
 #StorageToolPack
 
-It consits of the tools for storing data(information) in the machine
+It consits of the tools for storing data(information) in our machine
 
 
