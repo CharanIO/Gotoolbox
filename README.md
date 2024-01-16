@@ -7,7 +7,9 @@ It is nothing but a modren toolbox to build our vending machines in the digital 
 
 Before we get hand dirty by building our own Vending machine ,let we explore the tools in the Gotool box.
 Let we take our first tool from our gotoolbox,
+
 It's a tool pack, which consists of multiple tools
+
 #StorageToolPack
  It is a toolpack which consists of the tools for storing the data(information) in our vending machine
 let we take a look at first tool in our Storagetoolpack
